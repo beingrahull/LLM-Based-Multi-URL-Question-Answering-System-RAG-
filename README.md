@@ -1,3 +1,8 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/beingrahull/LLM-Based-Multi-URL-Question-Answering-System-RAG-/blob/main/llm_url_qa.ipynb
+)
+
+
 # LLM URL Question Answering (Colab Project)
 
 This project is an LLM-based question answering system that reads
@@ -29,4 +34,5 @@ The implementation is done in a Google Colab notebook.
 This project lists only the primary dependencies required to run the notebook.
 Some libraries (e.g., tokenizers, sentencepiece, unstructured sub-dependencies)
 are installed automatically as transitive dependencies.
+
 
