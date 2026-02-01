@@ -1,0 +1,28 @@
+# Core LLM & orchestration
+langchain
+langchain-community
+langchain-core
+langchain-text-splitters
+
+# Model & embeddings
+transformers
+sentence-transformers
+huggingface-hub
+torch
+
+# Vector database (optional but used)
+pinecone-client
+langchain-pinecone
+
+# Document & web content processing
+unstructured
+pypdf
+requests==2.32.4
+
+# Utilities
+numpy==2.2.0
+tqdm
+pyyaml
+
+# Optional UI / demo
+gradio
